@@ -1,0 +1,27 @@
+                              Training Status                               
++--------------------------------------------------------------------------+
+|Epoch | Steps |                            Loss                           |
+|------+-------+-----------------------------------------------------------|
+|  6   |   0   | tensor(0.5360, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  7   |   0   | tensor(0.6878, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  8   |   0   | tensor(0.5367, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  9   |   0   | tensor(0.4648, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 10   |   0   | tensor(0.4751, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 11   |   0   | tensor(0.4316, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 12   |   0   | tensor(0.4876, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 13   |   0   | tensor(0.2114, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 14   |   0   | tensor(0.1913, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 15   |   0   | tensor(0.3075, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 16   |   0   | tensor(0.3733, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 17   |   0   | tensor(0.3787, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 18   |   0   | tensor(0.3755, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 19   |   0   | tensor(1.0004, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 20   |   0   | tensor(0.4488, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 21   |   0   | tensor(0.5295, device='cuda:0', grad_fn=<NllLossBackward>)|
++--------------------------------------------------------------------------+
+[13:08:33] [Saving Predictions]...                                           517363183.py:135
+                                                                                             
+[13:42:30] [Try computing metrics]...                                        517363183.py:141
+                                                                                             
+[13:51:04] [Saving Model And Optimizer]...                                   517363183.py:165
+                                                                                             

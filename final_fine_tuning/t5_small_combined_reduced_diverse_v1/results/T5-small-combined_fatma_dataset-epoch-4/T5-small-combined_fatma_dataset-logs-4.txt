@@ -1,0 +1,16 @@
+                              Training Status                               
++--------------------------------------------------------------------------+
+|Epoch | Steps |                            Loss                           |
+|------+-------+-----------------------------------------------------------|
+|  0   |   0   | tensor(4.5007, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  1   |   0   | tensor(1.3716, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  2   |   0   | tensor(1.5525, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  3   |   0   | tensor(1.8181, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  4   |   0   | tensor(1.3181, device='cuda:0', grad_fn=<NllLossBackward>)|
++--------------------------------------------------------------------------+
+[04:09:52] [Saving Predictions]...                                          1146794301.py:139
+                                                                                             
+[04:24:35] [Try computing metrics]...                                       1146794301.py:145
+                                                                                             
+[04:49:14] [Saving Model And Optimizer]...                                  1146794301.py:169
+                                                                                             

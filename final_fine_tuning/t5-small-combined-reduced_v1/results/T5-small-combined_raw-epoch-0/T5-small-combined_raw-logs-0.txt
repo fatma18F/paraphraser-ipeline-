@@ -1,0 +1,21 @@
+[00:33:00] [Model]: Loading t5-small...                                      3769838446.py:22
+                                                                                             
+[00:33:06] [Data]: Reading data...                                           3769838446.py:59
+                                                                                             
+TRAIN Dataset: (36648, 3)
+TEST Dataset: (6872, 3)
+
+[00:33:51] [Initiating Fine Tuning]...                                      3769838446.py:125
+                                                                                             
+                              Training Status                               
++--------------------------------------------------------------------------+
+|Epoch | Steps |                            Loss                           |
+|------+-------+-----------------------------------------------------------|
+|  0   |   0   | tensor(2.7657, device='cuda:0', grad_fn=<NllLossBackward>)|
++--------------------------------------------------------------------------+
+[01:30:17] [Saving Predictions]...                                          3769838446.py:135
+                                                                                             
+[02:04:55] [Try computing metrics]...                                       3769838446.py:141
+                                                                                             
+[02:13:36] [Saving Model And Optimizer]...                                  3769838446.py:165
+                                                                                             

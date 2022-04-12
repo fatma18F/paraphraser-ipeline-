@@ -1,0 +1,35 @@
+                              Training Status                               
++--------------------------------------------------------------------------+
+|Epoch | Steps |                            Loss                           |
+|------+-------+-----------------------------------------------------------|
+|  0   |   0   | tensor(4.5007, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  1   |   0   | tensor(1.3716, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  2   |   0   | tensor(1.5525, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  3   |   0   | tensor(1.8181, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  4   |   0   | tensor(1.3181, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  5   |   0   | tensor(1.7699, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  6   |   0   | tensor(1.6444, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  7   |   0   | tensor(1.7116, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  8   |   0   | tensor(1.6006, device='cuda:0', grad_fn=<NllLossBackward>)|
+|  9   |   0   | tensor(0.9365, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 10   |   0   | tensor(1.2049, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 11   |   0   | tensor(1.2122, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 12   |   0   | tensor(1.5910, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 13   |   0   | tensor(1.1304, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 14   |   0   | tensor(1.0028, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 15   |   0   | tensor(0.8269, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 16   |   0   | tensor(0.9353, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 17   |   0   | tensor(1.4105, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 18   |   0   | tensor(0.8950, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 19   |   0   | tensor(1.2440, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 20   |   0   | tensor(0.7471, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 21   |   0   | tensor(0.8901, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 22   |   0   | tensor(1.0328, device='cuda:0', grad_fn=<NllLossBackward>)|
+| 23   |   0   | tensor(1.2226, device='cuda:0', grad_fn=<NllLossBackward>)|
++--------------------------------------------------------------------------+
+[22:57:25] [Saving Predictions]...                                          1146794301.py:139
+                                                                                             
+[23:12:03] [Try computing metrics]...                                       1146794301.py:145
+                                                                                             
+[23:36:43] [Saving Model And Optimizer]...                                  1146794301.py:169
+                                                                                             

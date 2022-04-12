@@ -1,0 +1,15 @@
+name: dyna_v2
+channels:
+  - defaults
+dependencies:
+  - pip
+  - pytorch==1.8.0
+  - cudatoolkit=11.1
+  - ipykernel
+  - aiohttp
+  - flatbuffers
+  - python-flatbuffers
+  - ipywidgets
+  - tqdm
+  - widgetsnbextension
+prefix: /anaconda/envs/dyna_v2
